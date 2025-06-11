@@ -1,21 +1,26 @@
 from flask import Flask, jsonify
 
-app = Flask(__name__)
+app = Flask(name)
 
-@app.route('/', methods=['GET'])
+
+@app.route("/my.json", methods=["GET"])
 def get_data():
-    data = {
-        "a": {
-            "a": 1,
-            "b": 2
+    data = [
+        {
+            "id": "abc123def456ghi789",
+            "key": "key1",
+            "expiresAt": "2025-05-30",
+            "allowOffline": true,
         },
-        "b": {
-            "a": 3,
-            "b": 4
-        }
-    }
+        {
+            "id": "ali456",
+            "key": "key2",
+            "expiresAt": "2025-06-15",
+            "allowOffline": false,
+        },
+    ]
     return jsonify(data)
 
-if __name__ == '__main__':
+
+if name == "main":
     app.run()
-  
