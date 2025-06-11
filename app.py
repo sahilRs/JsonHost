@@ -19,13 +19,13 @@ def get_data():
         },
         {
             "id": "370aadebb16b8920",
-            "key": "MITRA-CUSTOM-1122",
+            "key": "MITRACUSTOM1122",
             "expiresAt": "2026-06-20",
             "allowOffline": True,
         },
         {
             "id": "f0a09d2316ae125a3",
-            "key": "MITRA-CUSTOM-3344",
+            "key": "MITRACUSTOM3344",
             "expiresAt": "2026-06-20",
             "allowOffline": True,
         },
