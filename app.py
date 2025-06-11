@@ -9,7 +9,7 @@ def get_data():
         {
             "id": "e8e6d07552fd2c9a",
             "key": "key1",
-            "expiresAt": "2025-05-30",
+            "expiresAt": "2026-05-30",
             "allowOffline": True,
         },
         {
