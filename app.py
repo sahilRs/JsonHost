@@ -24,7 +24,7 @@ def get_data():
             "allowOffline": True,
         },
         {
-            "id": "f0a09d2316ae125a3",
+            "id": "f0a09d2316ae125a",
             "key": "MITRACUSTOM3344",
             "expiresAt": "2026-06-20",
             "allowOffline": True,
