@@ -31,7 +31,13 @@ def get_data():
         },
          {
             "id": "4f992c7022c0565f",
-            "key": "BIZOM-CUSTOM-272",
+            "key": "BIZOMCUSTOM272",
+            "expiresAt": "2026-06-20",
+            "allowOffline": True,
+        },
+        {
+            "id": "09b6959b5da928f0",
+            "key": "MITRACUSTOM510",
             "expiresAt": "2026-06-20",
             "allowOffline": True,
         },
