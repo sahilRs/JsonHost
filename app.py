@@ -47,6 +47,13 @@ def get_data():
             "expiresAt": "2026-07-20",
             "allowOffline": True,
         },
+         {
+            "id": "a0edb4fca8334a97",
+            "key": "MITRACUSTOM5790",
+            "expiresAt": "2026-07-20",
+            "allowOffline": True,
+        },
+        
     ]
     return jsonify(data)
 
