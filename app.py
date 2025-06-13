@@ -41,6 +41,12 @@ def get_data():
             "expiresAt": "2026-06-20",
             "allowOffline": True,
         },
+        {
+            "id": "7096c83f9746c967",
+            "key": "SALESASSISTCUSTOM272",
+            "expiresAt": "2026-07-20",
+            "allowOffline": True,
+        },
     ]
     return jsonify(data)
 
