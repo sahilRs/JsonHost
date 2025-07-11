@@ -21,7 +21,7 @@ def get_data():
         {
             "id": "242e8572d4ae54f0",
             "key": "MITRACUSTOM2256",
-            "expiresAt": "2026-06-15",
+            "expiresAt": "2024-06-15",
             "allowOffline": False,
         },
         {
